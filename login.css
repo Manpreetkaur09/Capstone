@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.square01{
+	background-image:url(images%20pro/emotionheader2.jpg);
+ 
+	opacity:0.9;
+
+}
+.im1{
+	text-align:center;
+	margin-top:30px;
+	
+}
+.login_member{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  	font-size: 45px;
+  	color:black;
+	padding-top:20px;
+	font-weight:900;
+  	-webkit-text-stroke:1px white;
+	text-align:center;
+}
+.email_sign{
+	position: relative;
+  	width: 100%;
+  	z-index: 1;
+  	margin-bottom: 10px;
+	text-align:center;
+	padding-left:10px;
+	padding-bottom:10px;
+  
+}
+.email2_sign{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+ 	color:black;
+	width:280px;	
+  	border-radius:25px;
+	font-weight:500;
+	margin-top:10px;
+}
+.forget_text{
+	clear:both;
+	text-align:left;
+  font-family: Poppins-Regular;
+  font-size: 18px;
+  line-height: 2.5;
+  color: black;
+  font-weight:600;
+  margin-top:110px;
+}
+.forget_text a{
+	text-decoration:none;
+}
+.txt2 {
+  font-family: Poppins-Regular;
+  font-size: 18px;
+  line-height: 1.5;
+  color:black;
+  font-weight:600;	
+  margin-top:40px;
+
+}
+
+.txt3{
+	font-size:16px;
+	
+	float:right;
+}
+.txt3 a{
+	text-decoration:none;
+}
+.button_text{
+	color:black;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:600;	
+	text-align:center;
+}
+
